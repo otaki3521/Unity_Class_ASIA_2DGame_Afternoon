@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 05af2500df7dbac42aa220b83e654438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2279068854144727314
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_0
+  - first:
+      213: -8093973544318848965
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_1
+  - first:
+      213: 7970523386362395112
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_2
+  - first:
+      213: -5438214444501273542
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_3
+  - first:
+      213: 7807100010473721199
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_4
+  - first:
+      213: -4899989566351443683
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_5
+  - first:
+      213: 7760151928342098062
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_6
+  - first:
+      213: -6780402473332269682
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_7
+  - first:
+      213: -321798594368166847
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_8
+  - first:
+      213: -217904788835076722
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_9
+  - first:
+      213: 5242992858595106615
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_10
+  - first:
+      213: 7327998788584048550
+    second: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 544
+        width: 164
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043b9de0049ab8742b87f2011b20eca2
+      internalID: -2279068854144727314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 539
+        width: 231
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5f729d05154fc4eb8bcc386d503d3d
+      internalID: -8093973544318848965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 512
+        width: 237
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379540fe59f10f14ba3905d2494cb0c6
+      internalID: 7970523386362395112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 512
+        width: 244
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a440dcbc4ab4ede4ca09176558bff420
+      internalID: -5438214444501273542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_4
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 496
+        width: 254
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce06452a9e1ebe41939dcab4410d5a7
+      internalID: 7807100010473721199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_5
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 496
+        width: 260
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883114b6073e3de4cbc70fcc6f2fa623
+      internalID: -4899989566351443683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 272
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbf3916235567348a1e1a8562e89e63
+      internalID: 7760151928342098062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 57
+        width: 221
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c52c6fbc121f546b95f195e7c3807f
+      internalID: -6780402473332269682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 70
+        width: 260
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cad3bfe58336748932457e46f0be99
+      internalID: -321798594368166847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 78
+        width: 284
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5155bd9b171f74695e697ee071532f
+      internalID: -217904788835076722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_10
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 238
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2af4334db62b3429c2ade49d0263f2
+      internalID: 5242992858595106615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-arabic-numerals-digital-vector-golden-grain-5a90f66ea660c7.9354561815194497106815_11
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 52
+        width: 354
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55d7c5b5df82ac4ca34f9d9a2172b50
+      internalID: 7327998788584048550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
